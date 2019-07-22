@@ -1,0 +1,9 @@
+CIVIL --> D:\PrincipalAutomation\Mail ID's\III CIVIL.xlsx
+
+CSE   --> D:\PrincipalAutomation\Mail ID's\III CSE A AND CSE B.xlsx
+
+ECE   --> D:\PrincipalAutomation\Mail ID's\III ECE A AND ECE B.xlsx
+
+MECH  --> D:\PrincipalAutomation\Mail ID's\III MECH A AND MECH B.xlsx
+
+ALL DEPARTMENT MAIL ID's --> D:\PrincipalAutomation\Mail ID's\ALL DEPARTMENT MAIL ID's.xlsx 
